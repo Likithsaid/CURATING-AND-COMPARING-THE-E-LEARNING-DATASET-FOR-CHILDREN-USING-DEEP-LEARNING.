@@ -1,0 +1,2 @@
+# CURATING-AND-COMPARING-THE-E-LEARNING-DATASET-FOR-CHILDREN-USING-DEEP-LEARNING.
+This proposal suggests leveraging facial emotion detection via deep learning to enhance engagement in online learning for children. By interpreting expressions, the system can prompt interventions, improving learning experiences. While promising, cultural nuances and refining accuracy require further research for long-term efficacy.
